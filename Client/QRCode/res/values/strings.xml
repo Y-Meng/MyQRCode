@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">二维码巡查系统</string>
+    <string name="action_settings">设置</string>
+    <string name="qrscan">扫二维码</string>
+    <string name="preview">拍摄预览</string>
+    <string name="equipment_status">设备现状：</string>
+
+    <string-array name="array_equipment_status">
+        <item>良好</item>
+        <item>老化</item>
+        <item>损坏</item>
+    </string-array>
+
+    <string name="explain">补充说明：</string>
+    <string name="uploading">事件上报</string>
+    <string name="exit">退出</string>
+    <string name="title_activity_main_activity1">二维码巡查系统——应急</string>
+    <string name="emergency_plan">应急预案：</string>
+
+    <string-array name="array_emergency_plan">
+        <item>预案1</item>
+        <item>预案2</item>
+        <item>预案3</item>
+    </string-array>
+
+    <string name="feedback">应急反馈：</string>
+    <string name="apply_data">数据申请</string>
+    <string name="feedback_uploading">反馈上传</string>
+
+    <string-array name="array_feedback">
+        <item>未完成</item>
+        <item>已完成</item>
+    </string-array>
+
+    <string name="title_activity_main">二维码巡查系统——巡查</string>
+    <string name="title_activity_select_pic">选择</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pick_photo">从相册中选择</string>
+    <string name="bt_cancel">取消</string>
+    <string name="string_scan_result">扫描结果：</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="zoomIn">放大</string>
+    <string name="zoomOut">缩小</string>
+    <string name="location">定位</string>
+    <string name="btnStartPatrol">开始巡查</string>
+    <string name="takephoto">拍照</string>
+    <string name="title_activity_menu">二维码巡查系统</string>
+    <string name="title_activity_task_query">任务查询</string>
+    <string name="title_gpsset">跟踪设置</string>
+    <string name="title_media">多媒体</string>
+    <string name="title_audio">录音</string>
+    <string name="title_activity_emergency_task">EmergencyTaskActivity</string>
+
+    <string-array name="DataRequest">
+        <item>二维码</item>
+        <item>平面图</item>
+        <item>切面图</item>
+    </string-array>
+
+    <string name="title_activity_emergeny_list">EmergenyListActivity</string>
+    <string name="title_activity_download">DownloadActivity</string>
+    <string name="title_activity_patrol_list">PatrolListActivity</string>
+    <string name="btnShowProgress">显示进度</string>
+
+</resources>

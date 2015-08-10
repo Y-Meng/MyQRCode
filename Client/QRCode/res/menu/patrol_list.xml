@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<item android:id="@+id/menu_view_all" android:title="全部" android:showAsAction="ifRoom"/>
+<item android:id="@+id/menu_view_submit" android:title="已上报" android:showAsAction="ifRoom"/>
+
+</menu>
